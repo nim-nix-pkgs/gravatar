@@ -11,6 +11,7 @@
   inputs.src-gravatar-master.ref   = "refs/heads/master";
   inputs.src-gravatar-master.owner = "achesak";
   inputs.src-gravatar-master.repo  = "nim-gravatar";
+  inputs.src-gravatar-master.dir   = "";
   inputs.src-gravatar-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
