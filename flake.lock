@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031906,
-        "narHash": "sha256-VOzDpxsxHDOJuFdTSpY5Y/TyK9wA/9ZwejbTZaFZC+Y=",
+        "lastModified": 1658201461,
+        "narHash": "sha256-8djs5Ghj36hMt+yUKnV8XWOhLalEsYJgBF7wvyaJNDw=",
         "owner": "nim-nix-pkgs",
         "repo": "gravatar",
-        "rev": "716df31cfee6b05b212972f9b5152bc677896142",
+        "rev": "635963ca4f1c008f9f595d5d99ce7435347fafe2",
         "type": "github"
       },
       "original": {
